@@ -1,0 +1,654 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "83c72a84-af37-11eb-9b35-185e0f90c725",
+    "deck_config_uuid": "821a1277-af2a-11eb-9b35-185e0f90c725",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "821a1277-af2a-11eb-9b35-185e0f90c725",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "32-how-do-i-get-tothis-address.mp3",
+        "33-i-am-eating.mp3",
+        "34-i-will-take-leave.mp3",
+        "35_can_you_tell_me_the_meaning.mp3",
+        "36_he_was_in_mysore.mp3",
+        "37_you_will_learn_by_reading.mp3",
+        "38_I_bought_this_shirt.mp3",
+        "39_is_there_a_metro.mp3",
+        "40-how-many-speak-kannada.mp3",
+        "41-do-you-all-work-together.mp3",
+        "42-its-pouring.mp3",
+        "43_it_is_so_crowded.mp3",
+        "44_watch_a_kannada.mp3",
+        "45_can_I_get_bisibelebath.mp3",
+        "46_idli_is_hard.mp3",
+        "47_i_like_food.mp3",
+        "48_who_is_that_boy.mp3",
+        "49_which_book_are_you_reading.mp3",
+        "51-which-kannada-movie.mp3",
+        "52-congratulations-you-did-great.mp3",
+        "53-why-are-you-so-late.mp3",
+        "54-who-cooks-in-your-house.mp3",
+        "55_these_kids_play_cricket.mp3",
+        "56_which_is_your_native_place.mp3",
+        "57-can-we-go-out-for-dinner.mp3",
+        "58-what-are-your-working-hours.mp3",
+        "59-do-you-do-home-delivery.mp3",
+        "60-sambhar-is-very-salty.mp3",
+        "61-how-often-do-you-eat-outside.mp3",
+        "62-best-park-for-kids-in-bangalore.mp3"
+    ],
+    "name": "NithyaKannada_2",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "seq",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-0e228",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do I get to this address?<div><br /></div><div>Go straight, then take a right</div><div><br /></div><div>After 2 cross roads turn left</div>",
+                "<div>ī viḷāsakke hēge hōguvudu?</div>ಈ ವಿಳಾಸಕ್ಕೆ ಹೇಗೆ ಹೋಗುವುದು?<div><br /></div><div>sīda hōgi. āmēle balakke tirugi</div><div>ಸೀದ ಹೋಗಿ. ಆಮೇಲೆ ಬಲಕ್ಕೆ ತಿರುಗಿ</div><div><br /></div><div>eraḍu aḍḍa rastegaḷa nantara eḍakke tirugi</div><div>ಎರಡು ಅಡ್ಡ ರಸ್ತೆಗಳ ನಂತರ ಎಡಕ್ಕೆ ತಿರುಗಿ<br /><div><br /></div><div>[sound:32-how-do-i-get-tothis-address.mp3]</div></div>",
+                "32"
+            ],
+            "guid": "cx:fbd7DZ]",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I am eating<div><br /></div><div>You carry on, I will join you after lunch.</div><div><br /></div>",
+                "<div>ūṭa māḍta iddīni.</div>ಊಟ ಮಾಡ್ತ ಇದ್ದೀನಿ.<div><br /></div><div>nīvu naḍeyiri. nānu ūṭa mugisi baruttēne.</div><div>ನೀವು ನಡೆಯಿರಿ. ನಾನು ಊಟ ಮುಗಿಸಿ ಬರುತ್ತೇನೆ.</div><div><br /></div><div>[sound:33-i-am-eating.mp3]</div>",
+                "33"
+            ],
+            "guid": "cQWs`99V,,",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I will take leave now<div><br /></div><div>I will visit again some other time</div>",
+                "<div>nānu hōgi baruttēne</div>ನಾನು ಹೋಗಿ ಬರುತ್ತೇನೆ<div><br /><div>mattom'me yāvāgādru bhēṭiyāguve</div><div>ಮತ್ತೊಮ್ಮೆ ಯಾವಾಗಾದ್ರು ಭೇಟಿಯಾಗುವೆ</div></div><div><br /></div><div>[sound:34-i-will-take-leave.mp3]</div>",
+                "34"
+            ],
+            "guid": "vpx~2Zy5^%",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Can you please tell me the meaning of this?<div><br /></div><div>I only understand a little</div>",
+                "<div>idara artha tiḷisuvirā?</div>ಇದರ ಅರ್ಥ ತಿಳಿಸುವಿರಾ?<div><br /></div><div>nanage svalpa svalpa artha āgutte.</div><div>ನನಗೆ ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಅರ್ಥ ಆಗುತ್ತೆ.</div><div>[sound:35_can_you_tell_me_the_meaning.mp3]</div>",
+                "35"
+            ],
+            "guid": "Q:GTYx4&K}",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>He was in Mysore for a day</div><div><br /></div><div>He visited many places</div><div><br /></div>He took the evening train back to Bangalore",
+                "avaru maisūrinalli ondu dina iddaru<div>ಅವರು ಮೈಸೂರಿನಲ್ಲಿ ಒಂದು ದಿನ ಇದ್ದರು</div><div><br /></div><div>avaru bahaḷa jāgagaḷannu suttidaru</div><div>ಅವರು ಬಹಳ ಜಾಗಗಳನ್ನು ಸುತ್ತಿದರು</div><div><br /></div><div>avaru san̄je railinalli beṅgaḷūrige vāpas bandaru</div><div>ಅವರು ಸಂಜೆ ರೈಲಿನಲ್ಲಿ ಬೆಂಗಳೂರಿಗೆ ವಾಪಸ್ ಬಂದರು</div><div><br /></div><div>[sound:36_he_was_in_mysore.mp3]</div>",
+                "36"
+            ],
+            "guid": "Lqu@6-/mzb",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "You will learn by reading daily<div><br /></div><div>Which newspaper do you read?</div>",
+                "<div>dina ōduttiddare kaliyuttīra</div>ದಿನ ಓದುತ್ತಿದ್ದರೆ ಕಲಿಯುತ್ತೀರ<div><br /></div><div>nīvu yāva patrike ōduttīra?</div><div>ನೀವು ಯಾವ ಪತ್ರಿಕೆ ಓದುತ್ತೀರ?</div><div><br /></div><div>[sound:37_you_will_learn_by_reading.mp3]</div>",
+                "37"
+            ],
+            "guid": "ouBM(]V5)-",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I bought this shirt yesterday<div><br /></div><div>Today I spilt coffee on it</div><div><br /></div><div>Tomorrow I have to wash it properly</div>",
+                "<div>ī aṅgi nenne koṇḍukoṇḍe.</div>ಈ ಅಂಗಿ ನೆನ್ನೆ ಕೊಂಡುಕೊಂಡೆ.<div><br /></div><div>ivattu adara mēle kāfi cellikoṇḍe.</div><div>ಇವತ್ತು ಅದರ ಮೇಲೆ ಕಾಫ಼ಿ ಚೆಲ್ಲಿಕೊಂಡೆ.</div><div><br /></div><div>nāḷe adannu sariyāgi ogeyabēku.</div><div>ನಾಳೆ ಅದನ್ನು ಸರಿಯಾಗಿ ಒಗೆಯಬೇಕು.</div><div><br /></div><div>[sound:38_I_bought_this_shirt.mp3]</div>",
+                "38"
+            ],
+            "guid": "ge!OnrOdF_",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Is there a Metro to your place?<div><br /></div><div>Which bus goes to your house?</div><div><br /></div><div>How far is your house from the bus stop?</div>",
+                "<div>nim'ma manege meṭrō ideyā?</div>ನಿಮ್ಮ ಮನೆಗೆ ಮೆಟ್ರೋ ಇದೆಯಾ?<div><br /><div>nim'ma manege yāva bas hōgutte?</div><div>ನಿಮ್ಮ ಮನೆಗೆ ಯಾವ ಬಸ್ ಹೋಗುತ್ತೆ?</div><div><br /></div><div>nim'ma mane bas sṭāp ninda eṣṭu dūra?</div><div>ನಿಮ್ಮ ಮನೆ ಬಸ್ ಸ್ಟಾಪ್ ನಿಂದ ಎಷ್ಟು ದೂರ?</div></div><div><br /></div><div>[sound:39_is_there_a_metro.mp3]</div>",
+                "39"
+            ],
+            "guid": "w8`tERI:UH",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many people speak Kannada in your house?<div><br /></div>",
+                "nim'ma maneyalli kannaḍa mātanāḍuvavaru eṣṭu jana iddāre?<br /><div>ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಕನ್ನಡ ಮಾತನಾಡುವವರು ಎಷ್ಟು ಜನ ಇದ್ದಾರೆ?</div><div><br /></div><div>[sound:40-how-many-speak-kannada.mp3]</div>",
+                "40"
+            ],
+            "guid": "M;G^9sMzs~",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Do you all work together<div><br /></div><div>It must be fun</div><div><br /></div>",
+                "<div>nīvellarū oṭṭige kelasa māḍuttīra?</div>ನೀವೆಲ್ಲರೂ ಒಟ್ಟಿಗೆ ಕೆಲಸ ಮಾಡುತ್ತೀರ?<div><br /><div>cennāgirutte annisuttade.</div><div>ಚೆನ್ನಾಗಿರುತ್ತೆ ಅನ್ನಿಸುತ್ತದೆ.</div></div><div><br /></div><div>[sound:41-do-you-all-work-together.mp3]</div>",
+                "41"
+            ],
+            "guid": "e%s`)P&`D8",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>It is pouring continuously everyday</div><div><br /></div><div>Cant go out anywhere</div><div><br /></div>",
+                "<div>ondē sama maḷe suriyuttide</div>ಒಂದೇ ಸಮ ಮಳೆ ಸುರಿಯುತ್ತಿದೆ<div><br /></div><div>horage hōguvudakke āgolla.</div><div>ಹೊರಗೆ ಹೋಗುವುದಕ್ಕೆ ಆಗೊಲ್ಲ.</div><div><br /></div><div>[sound:42-its-pouring.mp3]</div>",
+                "42"
+            ],
+            "guid": "PS+E{7izCr",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is so crowded<div><br /></div><div>There must be a thousand people in this mall</div><div><br /></div>",
+                "abbā. tumba jana iddāre.<div>ಅಬ್ಬಾ. ತುಂಬ ಜನ ಇದ್ದಾರೆ.</div><div><br /></div><div>ī mallnalli ondu sāvira jana irabahudu</div><div>ಈ&nbsp;ಮಾಲ್‌ನಲ್ಲಿ&nbsp;ಒಂದು ಸಾವಿರ ಜನ ಇರಬಹುದು</div><div><br /></div><div>[sound:43_it_is_so_crowded.mp3]</div>",
+                "43"
+            ],
+            "guid": "iOXg(SI773",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Are you going to watch a Kannada movie?<div><br /></div><div>Yes, I am going to watch a Kannada movie</div><div><br /></div><div>Which movie is it?</div>",
+                "<div>nīvu kannaḍa sinimā nōḍalu hōguttiddīra?</div>ನೀವು ಕನ್ನಡ ಸಿನಿಮಾ ನೋಡಲು ಹೋಗುತ್ತಿದ್ದೀರ?<div><br /></div><div>haudu nānu kannaḍa sinimā nōḍalu hōguttiddēne!</div><div>ಹೌದು ನಾನು ಕನ್ನಡ ಸಿನಿಮಾ ನೋಡಲು ಹೋಗುತ್ತಿದ್ದೇನೆ!</div><div><br /></div><div>yāvudu adu?</div><div>ಯಾವುದು ಅದು?</div><div><br /></div><div>[sound:44_watch_a_kannada.mp3]</div>",
+                "44"
+            ],
+            "guid": "LUejMaYX<)",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Can I get a plate of bisi bele bath?<div><br /></div><div>And a cup of coffee?</div><div><br /></div><div>How much is it?</div>",
+                "<div>nanage ondu taṭṭe bisi bēḷe bāt koḍuttīra?</div>ನನಗೆ ಒಂದು ತಟ್ಟೆ ಬಿಸಿ ಬೇಳೆ ಬಾತ್ ಕೊಡುತ್ತೀರ?<div><br /></div><div>jotege ondu lōṭa kāfi?</div><div>ಜೊತೆಗೆ ಒಂದು ಲೋಟ ಕಾಫ಼ಿ?</div><div><br /></div><div>eṣṭāyitu?</div><div>ಎಷ್ಟಾಯಿತು?</div><div><br /></div><div>[sound:45_can_I_get_bisibelebath.mp3]</div>",
+                "45"
+            ],
+            "guid": "yc.4.U!6Q@",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This idli is very hard<div><br /></div><div>I am tired of chewing.</div><div><br /></div><div>Was this made 2 days ago?</div>",
+                "<div>iḍli tumba gaṭṭiyāgide</div>ಇಡ್ಲಿ ತುಂಬ ಗಟ್ಟಿಯಾಗಿದೆ<div><br /></div><div>agidu agidu sustāyitu</div><div>ಅಗಿದು ಅಗಿದು ಸುಸ್ತಾಯಿತು</div><div><br /></div><div>ēnu eraḍu dina haḷeyadā?</div><div>ಏನು ಎರಡು ದಿನ ಹಳೆಯದಾ?</div><div><br /></div><div>[sound:46_idli_is_hard.mp3]</div>",
+                "46"
+            ],
+            "guid": "yFAW!4^4RF",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I liked the food today<div><br /></div><div>Make it this way everyday</div>",
+                "<div>ivattu ūṭa tumba cennāgittu.</div>ಇವತ್ತು ಊಟ ತುಂಬ ಚೆನ್ನಾಗಿತ್ತು.<div><br /></div><div>dina idē rīti māḍi</div><div>ದಿನ ಇದೇ ರೀತಿ ಮಾಡಿ</div><div><br /></div><div>[sound:47_i_like_food.mp3]</div>",
+                "47"
+            ],
+            "guid": "x=&C}r1gxA",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is that boy with a red cap?<div><br /></div><div>He is Shamu's son.</div>",
+                "<div>kempu ṭōpi hākiruva huḍuga yāru?</div>ಕೆಂಪು ಟೋಪಿ ಹಾಕಿರುವ ಹುಡುಗ ಯಾರು?<div><br /></div><div>avanu śāmuvina maga</div><div>ಅವನು ಶಾಮುವಿನ ಮಗ</div><div><br /></div><div>[sound:48_who_is_that_boy.mp3]</div>",
+                "48"
+            ],
+            "guid": "Cp|X7YxpKM",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which book are you reading?<div><br /></div><div>I am reading Vasudhendra's new book called Mohanaswamy.</div>",
+                "<div>nīvu yāva pustaka ōduttiddīra?</div>ನೀವು ಯಾವ ಪುಸ್ತಕ ಓದುತ್ತಿದ್ದೀರ?<div><br /></div><div>nānu vasudhēndraravara hosa pustaka mōhanasvāmi ōduttiddēne</div><div>ನಾನು ವಸುಧೇಂದ್ರರವರ ಹೊಸ ಪುಸ್ತಕ ಮೋಹನಸ್ವಾಮಿ ಓದುತ್ತಿದ್ದೇನೆ</div><div><br /></div><div>[sound:49_which_book_are_you_reading.mp3]</div>",
+                "49"
+            ],
+            "guid": "Dl#N}w:M5J",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Can I borrow your pen?<div><br /></div><div>Yes, please make it fast</div><div><br /></div>",
+                "<div>nim'ma pen koḍuttīra?</div>ನಿಮ್ಮ ಪೆನ್ ಕೊಡುತ್ತೀರ?<div><br /></div><div>sari, dayaviṭṭu bēga vāpas koḍi</div><div>ಸರಿ, ದಯವಿಟ್ಟು ಬೇಗ ವಾಪಸ್ ಕೊಡಿ</div><div><br /></div>",
+                "50"
+            ],
+            "guid": "G?/xL28VKE",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which Kannada movie did you watch recently?<div><br /></div><div>I watched Thithi day before yesterday. Its a good movie.</div>",
+                "<div>nīvu ittīcege yāva kannaḍa sinimā nōḍidiri?</div>ನೀವು ಇತ್ತೀಚೆಗೆ ಯಾವ ಕನ್ನಡ ಸಿನಿಮಾ ನೋಡಿದಿರಿ?<div><br /></div><div>nānu monneyaṣṭē tithi nōḍide. cennāgide sinimā.</div><div>ನಾನು ಮೊನ್ನೆಯಷ್ಟೇ ತಿಥಿ ನೋಡಿದೆ. ಚೆನ್ನಾಗಿದೆ ಸಿನಿಮಾ.</div><div><br /></div><div>[sound:51-which-kannada-movie.mp3]</div>",
+                "51"
+            ],
+            "guid": "NM6IaIRyL/",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Congratulations, you did great.<div><br /></div><div>Thank you very much.</div>",
+                "<div>abhinandanegaḷu. bahaḷa cennāgi māḍidiri.</div>ಅಭಿನಂದನೆಗಳು. ಬಹಳ ಚೆನ್ನಾಗಿ ಮಾಡಿದಿರಿ.<div><br /></div><div>bahaḷa dhan'yavādagaḷu</div><div>ಬಹಳ ಧನ್ಯವಾದಗಳು</div><div><br /></div><div>[sound:52-congratulations-you-did-great.mp3]</div>",
+                "52"
+            ],
+            "guid": "MwA0XDK~.8",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why are you so late? I have been waiting for an hour<div><br /></div><div>Sorry. I didnt get any autos</div><div><br /></div>",
+                "<div>yāke iṣṭu hottu? nānu ondu gaṇṭeyinda kāyuttiddēne.</div>ಯಾಕೆ ಇಷ್ಟು ಹೊತ್ತು? ನಾನು ಒಂದು ಗಂಟೆಯಿಂದ ಕಾಯುತ್ತಿದ್ದೇನೆ.<div><br /></div><div>kṣamisi, nanage yāva āṭō sigalilla.</div><div>ಕ್ಷಮಿಸಿ, ನನಗೆ ಯಾವ ಆಟೋ ಸಿಗಲಿಲ್ಲ.</div><div><br /></div><div>[sound:53-why-are-you-so-late.mp3]</div>",
+                "53"
+            ],
+            "guid": "uIL@9/J.}Y",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who cooks in your house?<div><br /></div><div>My wife cooks in the morning, I cook in the evening.</div><div><br /></div>",
+                "<div>nim'ma maneyalli aḍige māḍuvavaru yāru?</div>ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಅಡಿಗೆ ಮಾಡುವವರು ಯಾರು?<div><br /></div><div>nanna heṇḍati beḷigge aḍige māḍuttāḷe, nānu rātri māḍuttēne.</div><div>ನನ್ನ ಹೆಂಡತಿ ಬೆಳಿಗ್ಗೆ ಅಡಿಗೆ ಮಾಡುತ್ತಾಳೆ, ನಾನು ರಾತ್ರಿ ಮಾಡುತ್ತೇನೆ.</div><div><br /></div><div>[sound:54-who-cooks-in-your-house.mp3]</div>",
+                "54"
+            ],
+            "guid": "xcJ/a8KQ:8",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These kids play cricket in the ground everyday.<div><br /></div><div>I'm scared when the ball will hit our window</div>",
+                "<div>ī makkaḷu dinavū maidānadalli krikeṭ āḍuttāre.</div>ಈ ಮಕ್ಕಳು ದಿನವೂ ಮೈದಾನದಲ್ಲಿ ಕ್ರಿಕೆಟ್ ಆಡುತ್ತಾರೆ.<div><br /></div><div>āṭada ceṇḍu nam'ma maneya kiṭakige bīḷuttā endu hedarike nanage.</div><div>ಆಟದ ಚೆಂಡು ನಮ್ಮ ಮನೆಯ ಕಿಟಕಿಗೆ ಬೀಳುತ್ತಾ ಎಂದು ಹೆದರಿಕೆ ನನಗೆ.</div><div><br /></div><div>[sound:55_these_kids_play_cricket.mp3]</div>",
+                "55"
+            ],
+            "guid": "PW?OaX4=Lu",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which is your native place?<div><br /></div><div>I am from Lucknow</div><div><br /></div>",
+                "<div>nim'ma huṭṭūru yāvudu?</div>ನಿಮ್ಮ ಹುಟ್ಟೂರು ಯಾವುದು?<br /><div><br /></div><div>nānu laknav navaḷu/nānu laknav navanu</div><div>ನಾನು ಲಕ್ನವ್ ನವಳು/ನಾನು ಲಕ್ನವ್ ನವನು</div><div><br /></div><div>[sound:56_which_is_your_native_place.mp3]</div>",
+                "56"
+            ],
+            "guid": "n/k=H)qkjP",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Can we go out for dinner tonight?<div><br /></div><div>Yes, where would you like to go?</div><div><br /></div><div>Let's go to MTR</div>",
+                "<div>ivattu rātri ūṭakke &nbsp;hōrage hōgōṇave?</div>ಇವತ್ತು ರಾತ್ರಿ ಊಟಕ್ಕೆ &nbsp;ಹೋರಗೆ ಹೋಗೋಣವೆ?<div><br /></div><div>sari, ellige hōgōṇa?</div><div>ಸರಿ, ಎಲ್ಲಿಗೆ ಹೋಗೋಣ?</div><div><br /></div><div>MTR ge hōgōṇa.</div><div>MTR ಗೆ ಹೋಗೋಣ.</div><div><br /></div><div>[sound:57-can-we-go-out-for-dinner.mp3]</div>",
+                "57"
+            ],
+            "guid": "s30A-|Hm>S",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is your working hours?<div><br /></div><div>Morning 9 to evening five.</div><div><br /></div>",
+                "<div>nīvu dinadalli eṣṭu hottinda eṣṭu hottinavaregu kelasa māḍuttīra?</div>ನೀವು ದಿನದಲ್ಲಿ ಎಷ್ಟು ಹೊತ್ತಿಂದ ಎಷ್ಟು ಹೊತ್ತಿನವರೆಗು ಕೆಲಸ ಮಾಡುತ್ತೀರ?<div><br /></div><div>nānu beḷigge 9 rinda san̄je 5ra varegu kelasadalliruttēne.</div><div>ನಾನು ಬೆಳಿಗ್ಗೆ ೯ ರಿಂದ ಸಂಜೆ ೫ರ ವರೆಗು ಕೆಲಸದಲ್ಲಿರುತ್ತೇನೆ.</div><div><br /></div><div>[sound:58-what-are-your-working-hours.mp3]</div>",
+                "58"
+            ],
+            "guid": "qA]sCW{5G3",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Do you do home delivery?<div><br /></div><div>Yes, we do which area?</div><div><br /></div><div>Frazer Town, near the partk</div>",
+                "<div>nīvu manege talupisuttīra?</div>ನೀವು ಮನೆಗೆ ತಲುಪಿಸುತ್ತೀರ?<div><br /></div><div>haudu. yāva ēriyāge talupisabēku?</div><div>ಹೌದು. ಯಾವ ಏರಿಯಾಗೆ ತಲುಪಿಸಬೇಕು?</div><div><br /></div><div>frēsar ṭaun, udyānavanada hattira.</div><div>ಫ಼್ರೇಸರ್ ಟೌನ್, ಉದ್ಯಾನವನದ ಹತ್ತಿರ.</div><div><br /></div><div>[sound:59-do-you-do-home-delivery.mp3]</div>",
+                "59"
+            ],
+            "guid": "#R6wX]Q+?",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sambhar is very salty today<div><br /></div><div>Sorry, I will reduce tomorrow onwards</div>",
+                "<div>sāmbārinalli tumba uppide.</div>ಸಾಂಬಾರಿನಲ್ಲಿ ತುಂಬ ಉಪ್ಪಿದೆ.<div><br /></div><div>kṣamisi, nāḷeyinda kaḍime māḍuttēne</div><div>ಕ್ಷಮಿಸಿ, ನಾಳೆಯಿಂದ ಕಡಿಮೆ ಮಾಡುತ್ತೇನೆ</div><div><br /></div><div>[sound:60-sambhar-is-very-salty.mp3]</div>",
+                "60"
+            ],
+            "guid": "H*`=G*g/Cf",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How often do you eat outside?<div><br /></div><div>Not a lot, may be once a week</div>",
+                "<div>nīvu sāmān'yavāgi horagaḍe eṣṭu bāri tinnuttīra?</div>ನೀವು ಸಾಮಾನ್ಯವಾಗಿ ಹೊರಗಡೆ ಎಷ್ಟು ಬಾರಿ ತಿನ್ನುತ್ತೀರ?<div><br /></div><div>jāsti tinnuvudilla. vārakom'me irabahudu</div><div>ಜಾಸ್ತಿ ತಿನ್ನುವುದಿಲ್ಲ. ವಾರಕೊಮ್ಮೆ ಇರಬಹುದು</div><div>[sound:61-how-often-do-you-eat-outside.mp3]</div>",
+                "61"
+            ],
+            "guid": "DZeN&/~6q4",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Whats the best park for kids in Bengaluru?<div><br /></div><div>Cubbon park is the best, specially if you have pets.</div>",
+                "<div>beṅgaḷūrinalli makkaḷige uttamavāgiruva &nbsp;udyānavana yāvudu?</div>ಬೆಂಗಳೂರಿನಲ್ಲಿ ಮಕ್ಕಳಿಗೆ ಉತ್ತಮವಾಗಿರುವ &nbsp;ಉದ್ಯಾನವನ ಯಾವುದು?<div><br /></div><div>kabban udyānavanave uttamavādaddu. adarallū sāku prāṇigaḷiddare.</div><div>ಕಬ್ಬನ್ ಉದ್ಯಾನವನವೆ ಉತ್ತಮವಾದದ್ದು. ಅದರಲ್ಲೂ ಸಾಕು ಪ್ರಾಣಿಗಳಿದ್ದರೆ.</div><div><br /></div><div>[sound:62-best-park-for-kids-in-bangalore.mp3]</div>",
+                "62"
+            ],
+            "guid": "C$>^/#}E5B",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "Conversations",
+                "Daily",
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ]
+        }
+    ]
+}

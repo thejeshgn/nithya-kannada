@@ -1,0 +1,593 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "821a1276-af2a-11eb-9b35-185e0f90c725",
+    "deck_config_uuid": "821a1277-af2a-11eb-9b35-185e0f90c725",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "821a1277-af2a-11eb-9b35-185e0f90c725",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "Nithya Kannada. Learn Everyday Kannada under 60 seconds.\n\nThis is Part 1.\n\n<a href=\"https://thejeshgn.com/projects/nithya-kannada/\">Visit Project page for more details.</a>",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "10_i_will_go_home_early_today.mp3",
+        "11_cant_come_to_office.mp3",
+        "12_when_is_your_birthday.mp3",
+        "13_does_this_bus_goto_jayanagar.mp3",
+        "14_does_this_bus_goto_malleshwara.mp3",
+        "15_where_do_you_work.mp3",
+        "16_which_school.mp3",
+        "17_shall_we_go_for_coffee.mp3",
+        "18_how_much_is_this_flower.mp3",
+        "19_please_wash_vessels.mp3",
+        "1_please_give_me_way.mp3",
+        "20_please_give_me_newspaper.mp3",
+        "21_how_much_is_it_for_tender_coconut.mp3",
+        "22_brother_do_you_need_help.mp3",
+        "23_does_this_road_got_to_koramangala.mp3",
+        "24_are_you_blind.mp3",
+        "25_music_concert_was_nice.mp3",
+        "26_iam_sorry_iam_late.mp3",
+        "27_I_know_kannada.mp3",
+        "28_I_have_headache.mp3",
+        "29_help_me_find_this_train.mp3",
+        "2_I_dont_want.mp3",
+        "30_how_far_is_jayanagar.mp3",
+        "31_price_of_tamato.mp3",
+        "3_I_want_that.mp3",
+        "4_thank_you.mp3",
+        "5_eat_your_breakfast_quickly.mp3",
+        "6_what_is_your_name.mp3",
+        "7_lets_meet_tomorrow.mp3",
+        "8_did_you_have_your_food.mp3",
+        "9_what_did_you_have_for_breakfast.mp3"
+    ],
+    "name": "NithyaKannada_1",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "seq",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-0e228",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "NithyaKannada",
+                "NithyaKannada_2"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Please give me way.<div>&nbsp;<div>I need to leave early</div></div>",
+                "<div>dayaviṭṭu sṭalpa dāri biḍi.</div><div>ದಯವಿಟ್ಟು ಸ್ಟಲ್ಪ ದಾರಿ ಬಿಡಿ.</div><div><br /></div><div>nānu bēga horaḍabēku</div><div>ನಾನು ಬೇಗ ಹೊರಡಬೇಕು</div><div><br /></div>[sound:1_please_give_me_way.mp3]",
+                "1"
+            ],
+            "guid": "ptGOKkdvx&",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I dont want that.<div><br /></div><div>Take it back</div>",
+                "<div>nanage adu bēḍa.</div>ನನಗೆ ಅದು ಬೇಡ.<div><br /></div><div>vāpas tagoḷḷi</div><div>ವಾಪಸ್ ತಗೊಳ್ಳಿ</div><div><br /></div><div>[sound:2_I_dont_want.mp3]</div>",
+                "2"
+            ],
+            "guid": "b(+H}4eRYa",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I want that<div><br /></div><div>Please give</div>",
+                "<div>nanage adu bēku</div>ನನಗೆ ಅದು ಬೇಕು<div><br /></div><div>dayaviṭṭu koḍi.</div><div>ದಯವಿಟ್ಟು ಕೊಡಿ.</div><div><br /></div><div>[sound:3_I_want_that.mp3]</div>",
+                "3"
+            ],
+            "guid": "jZ9vr|.Q+E",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Thank you.<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span><span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span><div><br /></div><div>Your help is appreciated. <span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span></div>",
+                "<div>dhan'yavāda</div>ಧನ್ಯವಾದ.<div><div><br /></div><div>nim'minda bahaḷa sahāyavāyitu</div><div>ನಿಮ್ಮಿಂದ ಬಹಳ ಸಹಾಯವಾಯಿತು.</div></div><div><br /></div><div>[sound:4_thank_you.mp3]</div><div><br /></div>",
+                "4"
+            ],
+            "guid": "C,;w>,[t|u",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eat Your Breakfast Quickly<div><br /></div><div>Its getting late</div>",
+                "<div>bēga tiṇḍi tinnu.</div>ಬೇಗ ತಿಂಡಿ ತಿನ್ನು.&nbsp;<div><br /></div><div>hottāgtāyide</div><div>ಹೊತ್ತಾಗ್ತಾಯಿದೆ</div><div><br /></div><div>[sound:5_eat_your_breakfast_quickly.mp3]</div>",
+                "5"
+            ],
+            "guid": "xrwR-Ie^i:",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is your name?<div><br /></div><div>my name is thejesh</div>",
+                "<div>nim'ma hesaru ēnu?</div>ನಿಮ್ಮ ಹೆಸರು ಏನು?<div><br /></div><div>nanna hesaru tējēś</div><div>ನನ್ನ ಹೆಸರು ತೇಜೇಶ್</div><div><br /></div><div>[sound:6_what_is_your_name.mp3]</div>",
+                "6"
+            ],
+            "guid": "sfvbx^!mhd",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lets meet tomorrow<div><br /></div><div>yes, sure</div>",
+                "<div>nāḷe sigōṇa</div>ನಾಳೆ ಸಿಗೋಣ<div><br /></div><div>sari. khaṇḍitavāgi</div><div>ಸರಿ. ಖಂಡಿತವಾಗಿ</div><div><br /></div><div>[sound:7_lets_meet_tomorrow.mp3]</div>",
+                "7"
+            ],
+            "guid": "e2]n<_nb`}",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Did you have your food?<div><br /></div><div>Yes, I already had</div><div><br /></div><div>Did you have?</div>",
+                "<div>ūṭa ayta?</div>ಊಟ ಅಯ್ತ?<div><br /></div><div>hā nandāytu</div><div>ಹಾ ನಂದಾಯ್ತು</div><div><br /></div><div>nim'ma ūṭa ayta?</div><div>ನಿಮ್ಮ ಊಟ ಅಯ್ತ?</div><div><br /></div><div>[sound:8_did_you_have_your_food.mp3]</div>",
+                "8"
+            ],
+            "guid": "H9JviFJv`:",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what did you have for breakfast?<div><br /></div><div>I ate masala dose</div>",
+                "<div>beḷagina tiṇḍige ēnu tindiri?</div>ಬೆಳಗಿನ ತಿಂಡಿಗೆ ಏನು ತಿಂದಿರಿ?<div><br /></div><div>nānu masāla dōse tinde</div><div>ನಾನು ಮಸಾಲ ದೋಸೆ ತಿಂದೆ</div><div><br /></div><div>[sound:9_what_did_you_have_for_breakfast.mp3]</div>",
+                "9"
+            ],
+            "guid": "PklMx*$q_2",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I will go home early today<div><br /></div><div>It is raining</div>",
+                "<div>ivattu manege nānu bēga hōgtini</div>ಇವತ್ತು ಮನೆಗೆ ನಾನು ಬೇಗ ಹೋಗ್ತಿನಿ<div><br /></div><div>maḷe bartā ide</div><div>ಮಳೆ ಬರ್ತಾ ಇದೆ</div><div><br /></div><div>[sound:10_i_will_go_home_early_today.mp3]</div>",
+                "10"
+            ],
+            "guid": "Bz(j16E,[2",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I &nbsp;can't come to office today<div><br /></div><div>Why?</div><div><br /></div><div>I am sick</div>",
+                "<div>nānu ivattu kachērige baruvudakke āgolla.</div>ನಾನು ಇವತ್ತು ಕಛೇರಿಗೆ ಬರುವುದಕ್ಕೆ ಆಗೊಲ್ಲ.<div><br /></div><div>ēke?</div><div>ಏಕೆ?</div><div><br /></div><div>nanage huṣārilla</div><div>ನನಗೆ ಹುಷಾರಿಲ್ಲ</div><div>[sound:11_cant_come_to_office.mp3]</div>",
+                "11"
+            ],
+            "guid": "C#C5jL_3J*",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When is your birthday?<div><br /></div><div>My birthday is on Jan 1</div>",
+                "<div>nim'ma huṭṭuhabba yāvāga?</div>ನಿಮ್ಮ ಹುಟ್ಟುಹಬ್ಬ ಯಾವಾಗ?<div><br /></div><div>nanna huṭṭida habba janavari ondu</div><div>ನನ್ನ ಹುಟ್ಟಿದ ಹಬ್ಬ ಜನವರಿ ಒಂದು</div><div><br /></div><div>[sound:12_when_is_your_birthday.mp3]</div>",
+                "12"
+            ],
+            "guid": "RhD^:}p@XQ",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Does this bus go to Jayanagar?<div><br /></div><div>Yes, it does</div>",
+                "<div>ī bas jayanagarakke hōguttā?</div>ಈ ಬಸ್ ಜಯನಗರಕ್ಕೆ ಹೋಗುತ್ತಾ?<div><br /></div><div>haudu hōgutte</div><div>ಹೌದು ಹೋಗುತ್ತೆ</div><div><br /></div><div>[sound:13_does_this_bus_goto_jayanagar.mp3]</div>",
+                "13"
+            ],
+            "guid": "L(z7CI-9t,",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Does this bus go to Malleshwara?<div><br /></div><div>No, it doesnt</div>",
+                "<div>ī bas mallēśvarakke hōguttā?</div>ಈ ಬಸ್ ಮಲ್ಲೇಶ್ವರಕ್ಕೆ ಹೋಗುತ್ತಾ?<div><br /></div><div>illa. hōgalla.</div><div>ಇಲ್ಲ. ಹೋಗಲ್ಲ.</div><div><br /></div><div>[sound:14_does_this_bus_goto_malleshwara.mp3]</div>",
+                "14"
+            ],
+            "guid": "LYob%Y[s0[",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where do you work?<div><br /></div><div>I work at Infosys</div>",
+                "<div>nīvu elli kelasa māḍuttīra?</div>ನೀವು ಎಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೀರ?<div><br /></div><div>nānu infōsisnalli kelasa māḍuttēne</div><div>ನಾನು ಇನ್ಫ಼ೋಸಿಸ್ನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ</div><div><br /></div><div>[sound:15_where_do_you_work.mp3]</div>",
+                "15"
+            ],
+            "guid": "PyaK]o$aCr",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which school do your children go to?<div><br /></div><div>They go to National Public School in Basavanagudi</div>",
+                "<div>nim'ma makkaḷu yāva śālege hōguttāre?</div>ನಿಮ್ಮ ಮಕ್ಕಳು ಯಾವ ಶಾಲೆಗೆ ಹೋಗುತ್ತಾರೆ?<div><br /></div><div>nanna makkaḷu n'yāśnal pablik skūl ge hōguttāre</div><div>ನನ್ನ ಮಕ್ಕಳು ನ್ಯಾಶ್ನಲ್ ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ಗೆ ಹೋಗುತ್ತಾರೆ</div><div><br /></div><div>[sound:16_which_school.mp3]</div>",
+                "16"
+            ],
+            "guid": "EGUawDrBLF",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Shall we go for coffee?<div><br /></div><div>We can be back in half an hour</div>",
+                "<div>kāfi kuḍiyalu hōgōṇa?</div>ಕಾಫ಼ಿ ಕುಡಿಯಲು ಹೋಗೋಣ?<div><br /></div><div>ardha gaṇṭeli vāpas barabahudu</div><div>ಅರ್ಧ ಗಂಟೆಲಿ ವಾಪಸ್ ಬರಬಹುದು</div><div><br /></div><div>[sound:17_shall_we_go_for_coffee.mp3]</div>",
+                "17"
+            ],
+            "guid": "cQ.Ag?{dGD",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How much is this flower?<div><br /></div><div>It is thirty rupees a foot.</div><div><br /></div><div>OK, Give me two</div>",
+                "<div>ondu maḷa hūvu eṣṭam'ma?</div>ಒಂದು ಮಳ ಹೂವು ಎಷ್ಟಮ್ಮ?<div><br /></div><div>ondu maḷa mūvattu rupāyi</div><div>ಒಂದು ಮಳ ಮೂವತ್ತು ರುಪಾಯಿ</div><div><br /></div><div>sari eraḍu maḷa koḍam'ma</div><div>ಸರಿ ಎರಡು ಮಳ ಕೊಡಮ್ಮ&nbsp;</div><div><br /></div><div>[sound:18_how_much_is_this_flower.mp3]</div>",
+                "18"
+            ],
+            "guid": "z]Md5s1py^",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Please wash the vessels before 8am.<div><br /></div><div>I need to go out</div>",
+                "<div>eṇṭu gaṇṭeyoḷage pātre toḷedu mugisi</div>ಎಂಟು ಗಂಟೆಯೊಳಗೆ ಪಾತ್ರೆ ತೊಳೆದು ಮುಗಿಸಿ<div><br /></div><div>nānu horage hōgabēku</div><div>ನಾನು ಹೊರಗೆ ಹೋಗಬೇಕು</div><div><br /></div><div>[sound:19_please_wash_vessels.mp3]</div>",
+                "19"
+            ],
+            "guid": "qPB2Y/VaYK",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Will you please give me a newspaper?<div><br /></div><div>How much is it?</div><div><br /></div><div>5 rupees</div>",
+                "<div>ondu patrike koḍuttīra?</div>ಒಂದು ಪತ್ರಿಕೆ ಕೊಡುತ್ತೀರ?<div><br /><div>eṣṭu bele?</div><div>ಎಷ್ಟು ಬೆಲೆ?</div><div><br /></div><div>aidu rupāyi</div><div>ಐದು ರುಪಾಯಿ</div><div><br /></div><div>[sound:20_please_give_me_newspaper.mp3]</div></div>",
+                "20"
+            ],
+            "guid": "XL<>|d/n2",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How much is it for a tender coconut?<div><br /></div><div>Please reduce the price</div><div><br /></div><div>It is too hot</div>",
+                "<div>ondu eḷanīrige eṣṭu?</div>ಒಂದು ಎಳನೀರಿಗೆ ಎಷ್ಟು?<div><br /></div><div>svalpa kaḍime māḍkoḷḷi</div><div>ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡ್ಕೊಳ್ಳಿ</div><div><br /></div><div>tumba bisilu</div><div>ತುಂಬ ಬಿಸಿಲು</div><div><br /></div><div>[sound:21_how_much_is_it_for_tender_coconut.mp3]</div>",
+                "21"
+            ],
+            "guid": "P)nnfs]wg)",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Brother, do you need any help?<div><br /></div><div>Shall I help you lift the boxes?</div>",
+                "<div>aṇṇa ēnādaru sahāya bēka?</div>ಅಣ್ಣ ಏನಾದರು ಸಹಾಯ ಬೇಕ?<div><br /><div>ḍabbagaḷannu ettalu sahāya māḍalē?</div><div>ಡಬ್ಬಗಳನ್ನು ಎತ್ತಲು ಸಹಾಯ ಮಾಡಲೇ?</div><div><br /></div><div>[sound:22_brother_do_you_need_help.mp3]</div></div>",
+                "22"
+            ],
+            "guid": "xx;Db&Z;W^",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Does this road go to Koramangala?<div><br /></div><div>I am also going that way</div><div><br /></div><div>You can come with me</div>",
+                "<div>ī raste kōramaṅgalakke hōguttā?</div>ಈ ರಸ್ತೆ ಕೋರಮಂಗಲಕ್ಕೆ ಹೋಗುತ್ತಾ?<div><br /></div><div>nānu adē dārili hōguttiddēne</div><div>ನಾನು ಅದೇ ದಾರಿಲಿ ಹೋಗುತ್ತಿದ್ದೇನೆ</div><div><br /></div><div>nīvu nanna jote barabahudu</div><div>ನೀವು ನನ್ನ ಜೊತೆ ಬರಬಹುದು</div><div><br /></div><div>[sound:23_does_this_road_got_to_koramangala.mp3]</div>",
+                "23"
+            ],
+            "guid": "ksEy56@s8|",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mister, are you blind?<div><br /></div><div>Why are you stepping on my foot?</div>",
+                "<div>svāmi nimage kaṇṇu kāṇōlvā?</div>ಸ್ವಾಮಿ ನಿಮಗೆ ಕಣ್ಣು ಕಾಣೋಲ್ವಾ?<div><br /></div><div>nanna kālu yākri tuḷitīra?</div><div>ನನ್ನ ಕಾಲು ಯಾಕ್ರಿ ತುಳಿತೀರ?</div><div><br /></div><div>[sound:24_are_you_blind.mp3]</div>",
+                "24"
+            ],
+            "guid": "DQw%w.@ne^",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This music concert was very nice<div><br /></div><div>We will come again next time</div>",
+                "<div>ī saṅgīta kachēri tumba cennāgittu.</div>ಈ ಸಂಗೀತ ಕಛೇರಿ ತುಂಬ ಚೆನ್ನಾಗಿತ್ತು.<div><br /></div><div>nāvu matte baruttēve</div><div>ನಾವು ಮತ್ತೆ ಬರುತ್ತೇವೆ</div><div><br /></div><div>[sound:25_music_concert_was_nice.mp3]</div>",
+                "25"
+            ],
+            "guid": "mO?C+uAT}L",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I'm sorry. I am late<div><br /></div><div>I was stuck in traffic</div><div><br /></div><div>I won't repeat it</div>",
+                "<div>kṣamisi, taḍa āyitu.</div>ಕ್ಷಮಿಸಿ, ತಡ ಆಯಿತು.&nbsp;<div><br /></div><div>ṭrāfiknalli sikki hākoṇḍidde</div><div>ಟ್ರಾಫ಼ಿಕ್ನಲ್ಲಿ ಸಿಕ್ಕಿ ಹಾಕೊಂಡಿದ್ದೆ</div><div><br /></div><div>idannu matte māḍuvudilla.</div><div>ಇದನ್ನು ಮತ್ತೆ ಮಾಡುವುದಿಲ್ಲ.</div><div><br /></div><div>[sound:26_iam_sorry_iam_late.mp3]</div>",
+                "26"
+            ],
+            "guid": "uelPZ|u{ed",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I know to speak Kannada<div><br /></div><div>Speak slowly</div><div><br /></div><div>I will try</div>",
+                "<div>nanage kannaḍa barutte</div>ನನಗೆ ಕನ್ನಡ ಬರುತ್ತೆ<div><br /></div><div>nidhānakke mātāḍi</div><div>ನಿಧಾನಕ್ಕೆ ಮಾತಾಡಿ</div><div><br /></div><div>prayatna paḍuttēne</div><div>ಪ್ರಯತ್ನ ಪಡುತ್ತೇನೆ</div><div><br /></div><div>[sound:27_I_know_kannada.mp3]</div>",
+                "27"
+            ],
+            "guid": "g{~AuNYCs8",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "My head is aching<div><br /></div><div>Please speak softly</div>",
+                "<div>nanage tale nōvu</div>ನನಗೆ ತಲೆ ನೋವು<div><br /></div><div>mellage mātāḍi</div><div>ಮೆಲ್ಲಗೆ ಮಾತಾಡಿ</div><div><br /></div><div>[sound:28_I_have_headache.mp3]</div>",
+                "28"
+            ],
+            "guid": "q|J*rp*iwa",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Can you help me find this train?<div><br /></div><div>I need to go to Mangalore</div>",
+                "<div>ī railu huḍukalu sahāya māḍuttīra?</div>ಈ ರೈಲು ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತೀರ?<div><br /></div><div>nānu maṅgaḷūrige hōgabēku</div><div>ನಾನು ಮಂಗಳೂರಿಗೆ ಹೋಗಬೇಕು</div><div><br /></div><div>[sound:29_help_me_find_this_train.mp3]</div>",
+                "29"
+            ],
+            "guid": "m`=z};)Hkx",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How far is Jayanagar from here?<div><br /></div><div>It is approximately 25kms</div><div><br /></div><div>Is there a bus that goes there?</div>",
+                "<div>illinda jayanagara eṣṭu dūra?</div>ಇಲ್ಲಿಂದ ಜಯನಗರ ಎಷ್ಟು ದೂರ?<div><br /></div><div>illinda sumāru 25 km</div><div>ಇಲ್ಲಿಂದ ಸುಮಾರು ೨೫ km</div><div><br /></div><div>allige bas ideya?</div><div>ಅಲ್ಲಿಗೆ ಬಸ್ ಇದೆಯ?</div><div><br /></div><div>[sound:30_how_far_is_jayanagar.mp3]</div>",
+                "30"
+            ],
+            "guid": "fYK(&uq6:2",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the price of tomato for a kg?<div><br /></div><div>20 rupees</div><div><br /></div><div>give me 2 kgs</div>",
+                "<div>ondu kilo ṭomēṭo ge eṣṭu?</div>ಒಂದು ಕಿಲೊ ಟೊಮೇಟೊ ಗೆ ಎಷ್ಟು?<div><br /></div><div>20 rupāyi</div><div>೨೦ ರುಪಾಯಿ</div><div><br /></div><div>eraḍu keji koḍi</div><div>ಎರಡು ಕೆಜಿ ಕೊಡಿ</div><div><br /></div><div>[sound:31_price_of_tamato.mp3]</div>",
+                "31"
+            ],
+            "guid": "gb?,ZO/l(J",
+            "note_model_uuid": "821a127a-af2a-11eb-9b35-185e0f90c725",
+            "tags": [
+                "1",
+                "Part"
+            ]
+        }
+    ]
+}
