@@ -1,7 +1,7 @@
 # Nithya-Kannada
 Nithya Kannada. Learn Everyday Kannada under 60 seconds. <a href="https://thejeshgn.com/projects/nithya-kannada/">Visit Nithya Kannada Project page for more details.</a>
 
-Available under <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>. Credit the <a href="https://thejeshgn.com/projects/nithya-kannada/"> nithya-kannada </a>a> project page.
+Available under <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>. Credit the <a href="https://thejeshgn.com/projects/nithya-kannada/"> nithya-kannada </a> project page.
 
 
 # NithyaKannada_0
@@ -9,9 +9,9 @@ This is NithyaKannada_0. In this part you will learn Kannada alphabets. The cont
 
 
 # NithyaKannada_1
-This is NithyaKannada_1. It covers basics of conversation.
+This is NithyaKannada_1. It covers basics of conversation. Content by Thejesh GN and Supriya.
   
 # NithyaKannada_2
-This is NithyaKannada_2. It covers basics of conversation.
+This is NithyaKannada_2. It covers basics of conversation. Content by Thejesh GN and Supriya.
 
 
