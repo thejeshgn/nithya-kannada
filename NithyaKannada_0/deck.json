@@ -1,0 +1,328 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "b904d7e0-b19f-11eb-9b35-185e0f90c725",
+    "deck_config_uuid": "821a1277-af2a-11eb-9b35-185e0f90c725",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "821a1277-af2a-11eb-9b35-185e0f90c725",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "Nithya Kannada. Learn Everyday Kannada under 60 seconds. <a href=\"https://thejeshgn.com/projects/nithya-kannada/\">Visit Nithya Kannada Project page for more details.</a>\n\nThis is NithyaKannada_0. In this part you will learn Kannada alphabets. The content for this deck comes from <a href=\"https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1_%E0%B2%85%E0%B2%95%E0%B3%8D%E0%B2%B7%E0%B2%B0%E0%B2%AE%E0%B2%BE%E0%B2%B2%E0%B3%86\">Wikipedia - ಕನ್ನಡ ಅಕ್ಷರಮಾಲೆ</a>. The gifs and mp3 audio files are sourced from the same. Available under <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>.\n\n  \n\n\n",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "Kannada-Alphabet-Aha.gif",
+        "Kannada-a.ogg.mp3",
+        "Kannada-aa.ogg.mp3",
+        "Kannada-ae.ogg.mp3",
+        "Kannada-aee.ogg.mp3",
+        "Kannada-aha.ogg.mp3",
+        "Kannada-ai.ogg.mp3",
+        "Kannada-alphabet-a.gif",
+        "Kannada-alphabet-aa.gif",
+        "Kannada-alphabet-ae.gif",
+        "Kannada-alphabet-aee.gif",
+        "Kannada-alphabet-ai.gif",
+        "Kannada-alphabet-am.gif",
+        "Kannada-alphabet-e.gif",
+        "Kannada-alphabet-o.gif",
+        "Kannada-alphabet-oo.gif",
+        "Kannada-alphabet-ou.gif",
+        "Kannada-alphabet-ru.gif",
+        "Kannada-alphabet-u.gif",
+        "Kannada-alphabet-uu.gif",
+        "Kannada-am.ogg.mp3",
+        "Kannada-i.ogg.mp3",
+        "Kannada-o.ogg.mp3",
+        "Kannada-oo.ogg.mp3",
+        "Kannada-ow.ogg.mp3",
+        "Kannada-ru.ogg.mp3",
+        "Kannada-u.ogg.mp3",
+        "Kannada-uu.ogg.mp3"
+    ],
+    "mid": 1612705003428,
+    "name": "NithyaKannada_0",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>a<br></div><div><br></div><div>[sound:Kannada-a.ogg.mp3]<br></div>",
+                "<br><div><img src=\"Kannada-alphabet-a.gif\"><br></div><div><br></div><div><br></div>"
+            ],
+            "guid": "KCNr8l?@a^",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ā<div>[sound:Kannada-aa.ogg.mp3]<br></div>",
+                "<img src=\"Kannada-alphabet-aa.gif\"><br><div><br></div><div><br></div><div><br></div>"
+            ],
+            "guid": "Ff>~pJ]Kj(",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "i<div><br><div>[sound:Kannada-i.ogg.mp3]<br></div></div><div><br></div>",
+                "<img src=\"Kannada-alphabet-e.gif\">"
+            ],
+            "guid": "e,-3:S1I=",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>u<br></div><div>[sound:Kannada-u.ogg.mp3]<br></div>",
+                "<div><img src=\"Kannada-alphabet-u.gif\"><br></div>"
+            ],
+            "guid": "wr}A;N>g*.",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ū<div>[sound:Kannada-uu.ogg.mp3]<br></div>",
+                "<img src=\"Kannada-alphabet-uu.gif\">"
+            ],
+            "guid": "zdigI2GWaR",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ru<div>[sound:Kannada-ru.ogg.mp3]<br></div>",
+                "<img src=\"Kannada-alphabet-ru.gif\">"
+            ],
+            "guid": "duGWxX`iOu",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e<div>[sound:Kannada-ae.ogg.mp3]<br></div>",
+                "<img src=\"Kannada-alphabet-ae.gif\">"
+            ],
+            "guid": "Q}KG@LIsk(",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ē<div>[sound:Kannada-aee.ogg.mp3]<br></div>",
+                "<img src=\"Kannada-alphabet-aee.gif\">"
+            ],
+            "guid": "yAFoVJB<x^",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ai<div>[sound:Kannada-ai.ogg.mp3]<br></div>",
+                "<img src=\"Kannada-alphabet-ai.gif\">"
+            ],
+            "guid": "Oq~zV.r>gg",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "o<div>[sound:Kannada-o.ogg.mp3]<br></div>",
+                "<img src=\"Kannada-alphabet-o.gif\">"
+            ],
+            "guid": "BdFem}Ux;W",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ō<div>[sound:Kannada-oo.ogg.mp3]<br></div>",
+                "<img src=\"Kannada-alphabet-oo.gif\">"
+            ],
+            "guid": "kv7r9qCdA#",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "au<div>[sound:Kannada-ow.ogg.mp3]<br></div>",
+                "<img src=\"Kannada-alphabet-ou.gif\">"
+            ],
+            "guid": "y*2)boOlpm",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "aom<div>[sound:Kannada-am.ogg.mp3]<br></div>",
+                "<img src=\"Kannada-alphabet-am.gif\">"
+            ],
+            "guid": "HT!&JhvcWs",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ahā<div>[sound:Kannada-aha.ogg.mp3]<br></div>",
+                "<img src=\"Kannada-Alphabet-Aha.gif\">"
+            ],
+            "guid": "IOF/6@>k|d",
+            "note_model_uuid": "b904d7e4-b19f-11eb-9b35-185e0f90c725",
+            "tags": [
+                "NithyaKannada_0"
+            ]
+        }
+    ]
+}
